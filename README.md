@@ -13,7 +13,7 @@ Trading Bot with Interactive Brokers with Python [Backtesting]
 
 
 # Step 2 --> Install Dependencies
-conda install pandas 
-conda install pymongo
-brew tap mongodb
-brewbrew install mongodb-community@6.0;  
+- conda install pandas
+- conda install pymongo
+- brew tap mongodb
+- brewbrew install mongodb-community@6.0;  
