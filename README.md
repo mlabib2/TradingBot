@@ -10,3 +10,8 @@ Trading Bot with Interactive Brokers with Python [Backtesting]
 - Check the socket port to be 9497
 
 <img width="1077" alt="image" src="https://github.com/user-attachments/assets/04dd4804-cc13-4651-abcc-612842799d36" />
+
+
+#Step 2 --> Install Dependencies
+conda install pandas 
+conda install pymongo
